@@ -1,0 +1,11 @@
+Comands Project
+1 - yarn create next-app
+2 - npm run dev
+
+Comands Install Libs:
+1 - yarn add sass
+2 - yarn add mongodb mongoose
+3 - yarn add redux react-redux @reduxjs/toolkit next-redux-wrapper redux-thunk redux-persist redux-devtools-extension
+4 - yarn add react-icons
+5 - yarn add dirname-filename-esm (next.config.mjs - NextJs-14) 
+6 - yarn add axios
